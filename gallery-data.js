@@ -96,14 +96,6 @@ window.GALLERY_WORKS = [
     "frameColor": "#886454"
   },
   {
-    "title": "Blue Scarf and Butterflies",
-    "image": "blue-scarf-and-butterflies.jpg",
-    "description": "An image of creative freedom and elusive memory.",
-    "category": "non-political",
-    "source": "portfolio",
-    "frameColor": "#ad8a3d"
-  },
-  {
     "title": "Irreversibility",
     "image": "irreversibility.jpg",
     "description": "The irreversibility of choice as a fundamental human experience.",
@@ -150,14 +142,6 @@ window.GALLERY_WORKS = [
     "category": "non-political",
     "source": "portfolio",
     "frameColor": "#826f3e"
-  },
-  {
-    "title": "Two Sofas",
-    "image": "two-sofas.jpg",
-    "description": "The devaluation of personal attachment to possessions.",
-    "category": "non-political",
-    "source": "portfolio",
-    "frameColor": "#77736b"
   },
   {
     "title": "Two Silver Earrings and IPA",
