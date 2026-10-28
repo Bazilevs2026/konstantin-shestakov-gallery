@@ -31,3 +31,47 @@
 .editor-preview{outline:none!important;box-shadow:0 0 0 4px var(--preview-frame,#807667),0 3px 14px #0002;margin:24px auto}
 @media(max-width:900px){.art-image{height:clamp(225px,47vw,430px)}}
 @media(max-width:550px){.art-image{height:auto;min-height:0;padding:2px 12px 12px}.art-image img{max-height:510px}.painting-frame,.lb-image .painting-frame{border-width:3px!important}.lb-image .painting-frame img{max-height:calc(55vh - 6px)}}
+
+/* FIX v4 — artwork dimensions are bounded by pixel sizes, not percentage heights.
+   Avoids oversized paintings overlapping headings and captions. */
+.grid .art { min-width:0; display:flex; flex-direction:column; }
+.grid .art-image {
+  width:100%; height:430px; min-height:0;
+  display:flex; align-items:center; justify-content:center;
+  padding:10px 8px 14px; overflow:hidden;
+}
+.grid .art-image .painting-frame {
+  box-sizing:border-box!important; display:block!important;
+  width:fit-content!important; height:fit-content!important;
+  max-width:100%!important; max-height:none!important;
+  flex:0 1 auto; padding:0!important;
+  border:4px solid var(--art-frame)!important;
+  line-height:0; background:transparent!important;
+}
+.grid .art-image .painting-frame img {
+  display:block!important;
+  width:auto!important; height:auto!important;
+  max-width:100%!important; max-height:395px!important;
+  object-fit:contain!important;
+}
+.grid .art-meta { position:relative; padding:12px 8px 0; flex:0 0 auto; }
+.lb-image .painting-frame { display:inline-block!important; width:fit-content!important; height:fit-content!important; max-height:none!important; max-width:100%!important; padding:0!important; line-height:0; }
+.lb-image .painting-frame img { display:block; width:auto!important; height:auto!important; max-height:75vh!important; max-width:100%!important; object-fit:contain!important; }
+@media(max-width:1100px) and (min-width:901px){
+  .grid .art-image{height:350px}
+  .grid .art-image .painting-frame img{max-height:315px!important}
+}
+@media(max-width:900px){
+  .grid .art-image{height:370px}
+  .grid .art-image .painting-frame img{max-height:335px!important}
+}
+@media(max-width:550px){
+  .grid .art-image{height:420px;padding:10px 12px 12px}
+  .grid .art-image .painting-frame img{max-height:390px!important}
+  .grid .art-meta{padding-top:10px}
+  .lb-image .painting-frame img{max-height:52vh!important}
+}
+@media(max-width:390px){
+  .grid .art-image{height:365px}
+  .grid .art-image .painting-frame img{max-height:335px!important}
+}
