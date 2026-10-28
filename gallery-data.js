@@ -1,7 +1,7 @@
 window.GALLERY_WORKS = [
   {
     "title": "A Woman Who Is Waiting",
-    "image": "artworks/a-woman-who-is-waiting.jpg",
+    "image": "a-woman-who-is-waiting.jpg",
     "description": "An exploration of waiting as an existential condition and a form of suspended time.",
     "category": "non-political",
     "source": "portfolio",
@@ -9,7 +9,7 @@ window.GALLERY_WORKS = [
   },
   {
     "title": "A Castrated Bull Terrier",
-    "image": "artworks/a-castrated-bull-terrier.jpg",
+    "image": "a-castrated-bull-terrier.jpg",
     "description": "A metaphor for the loss of vitality through social adaptation and control.",
     "category": "non-political",
     "source": "portfolio",
@@ -17,7 +17,7 @@ window.GALLERY_WORKS = [
   },
   {
     "title": "God Does Not Play Dice",
-    "image": "artworks/god-does-not-play-dice.jpg",
+    "image": "god-does-not-play-dice.jpg",
     "description": "A reflection on determinism and chance in the human perception of the world.",
     "category": "non-political",
     "source": "portfolio",
@@ -25,7 +25,7 @@ window.GALLERY_WORKS = [
   },
   {
     "title": "Borderline",
-    "image": "artworks/borderline.jpg",
+    "image": "borderline.jpg",
     "description": "The border as an internal psychological construct rather than a physical divide.",
     "category": "non-political",
     "source": "portfolio",
@@ -33,7 +33,7 @@ window.GALLERY_WORKS = [
   },
   {
     "title": "Lavender Bouquet",
-    "image": "artworks/lavender-bouquet.jpg",
+    "image": "lavender-bouquet.jpg",
     "description": "Beauty as a source of consolation and fragile stability.",
     "category": "non-political",
     "source": "portfolio",
@@ -41,7 +41,7 @@ window.GALLERY_WORKS = [
   },
   {
     "title": "English Teacher Avatar",
-    "image": "artworks/english-teacher-avatar.jpg",
+    "image": "english-teacher-avatar.jpg",
     "description": "A visualization of professional identity as a constructed social role.",
     "category": "non-political",
     "source": "portfolio",
@@ -49,7 +49,7 @@ window.GALLERY_WORKS = [
   },
   {
     "title": "Lipstick and Helmet",
-    "image": "artworks/lipstick-and-helmet.jpg",
+    "image": "lipstick-and-helmet.jpg",
     "description": "A confrontation between vulnerability and protection, femininity and militarization, in which the personal and political become inseparable.",
     "category": "political",
     "source": "portfolio",
@@ -57,7 +57,7 @@ window.GALLERY_WORKS = [
   },
   {
     "title": "Carrot",
-    "image": "artworks/carrot.jpg",
+    "image": "carrot.jpg",
     "description": "An ironic reflection on everyday propaganda, where an ordinary object becomes a symbol of manipulation and manufactured desire.",
     "category": "political",
     "source": "portfolio",
@@ -65,7 +65,7 @@ window.GALLERY_WORKS = [
   },
   {
     "title": "Lemon",
-    "image": "artworks/lemon.jpg",
+    "image": "lemon.jpg",
     "description": "A companion to Carrot, exploring the absurdity of political messaging and the transformation of simple images into ideological statements.",
     "category": "political",
     "source": "portfolio",
@@ -73,7 +73,7 @@ window.GALLERY_WORKS = [
   },
   {
     "title": "A Wedding Present",
-    "image": "artworks/a-wedding-present.jpg",
+    "image": "a-wedding-present.jpg",
     "description": "Social ritual as a vessel for expectations and projections.",
     "category": "non-political",
     "source": "portfolio",
@@ -81,7 +81,7 @@ window.GALLERY_WORKS = [
   },
   {
     "title": "Balloons in an Orphanage",
-    "image": "artworks/balloons-in-an-orphanage.jpg",
+    "image": "balloons-in-an-orphanage.jpg",
     "description": "The contrast between decorative joy and structural loss.",
     "category": "non-political",
     "source": "portfolio",
@@ -89,7 +89,7 @@ window.GALLERY_WORKS = [
   },
   {
     "title": "What Is in Her Backpack?",
-    "image": "artworks/what-is-in-her-backpack.jpg",
+    "image": "what-is-in-her-backpack.jpg",
     "description": "The invisible emotional and biographical baggage a person carries.",
     "category": "non-political",
     "source": "portfolio",
@@ -97,7 +97,7 @@ window.GALLERY_WORKS = [
   },
   {
     "title": "Blue Scarf and Butterflies",
-    "image": "artworks/blue-scarf-and-butterflies.jpg",
+    "image": "blue-scarf-and-butterflies.jpg",
     "description": "An image of creative freedom and elusive memory.",
     "category": "non-political",
     "source": "portfolio",
@@ -105,7 +105,7 @@ window.GALLERY_WORKS = [
   },
   {
     "title": "Irreversibility",
-    "image": "artworks/irreversibility.jpg",
+    "image": "irreversibility.jpg",
     "description": "The irreversibility of choice as a fundamental human experience.",
     "category": "non-political",
     "source": "portfolio",
@@ -113,7 +113,7 @@ window.GALLERY_WORKS = [
   },
   {
     "title": "3.2% Truth",
-    "image": "artworks/3-2-truth.jpg",
+    "image": "3-2-truth.jpg",
     "description": "Inspired by a meeting between Vladimir Putin and two Russian pro-government journalists, at which he offered kefir rather than conventional refreshments. The artist reads this gesture as a staged display of health and self-discipline. The lettering evokes the Korova Milk Bar in Stanley Kubrick’s A Clockwork Orange, linking political spectacle to dystopian imagery.",
     "category": "political",
     "source": "portfolio",
@@ -121,7 +121,7 @@ window.GALLERY_WORKS = [
   },
   {
     "title": "Monterey, CA Beach",
-    "image": "artworks/monterey-ca-beach.jpg",
+    "image": "monterey-ca-beach.jpg",
     "description": "A trace of attachment in an open and neutral space.",
     "category": "non-political",
     "source": "portfolio",
@@ -129,7 +129,7 @@ window.GALLERY_WORKS = [
   },
   {
     "title": "Lost Little Leg",
-    "image": "artworks/lost-little-leg.jpg",
+    "image": "lost-little-leg.jpg",
     "description": "A wounded soldier, both a participant in war and a victim of Russian military propaganda. His missing leg becomes a symbol of the irreversible human cost of manipulation, exposing the distance between glorified military narratives and the reality of war.",
     "category": "political",
     "source": "portfolio",
@@ -137,7 +137,7 @@ window.GALLERY_WORKS = [
   },
   {
     "title": "Miami Border Incident",
-    "image": "artworks/miami-border-incident.jpg",
+    "image": "miami-border-incident.jpg",
     "description": "The absurdity and arbitrariness of borders in a global context.",
     "category": "non-political",
     "source": "portfolio",
@@ -145,7 +145,7 @@ window.GALLERY_WORKS = [
   },
   {
     "title": "Two Sleeping Bees",
-    "image": "artworks/two-sleeping-bees.jpg",
+    "image": "two-sleeping-bees.jpg",
     "description": "Vulnerability that persists even in repose.",
     "category": "non-political",
     "source": "portfolio",
@@ -153,7 +153,7 @@ window.GALLERY_WORKS = [
   },
   {
     "title": "Two Sofas",
-    "image": "artworks/two-sofas.jpg",
+    "image": "two-sofas.jpg",
     "description": "The devaluation of personal attachment to possessions.",
     "category": "non-political",
     "source": "portfolio",
@@ -161,7 +161,7 @@ window.GALLERY_WORKS = [
   },
   {
     "title": "Two Silver Earrings and IPA",
-    "image": "artworks/two-silver-earrings-and-ipa.jpg",
+    "image": "two-silver-earrings-and-ipa.jpg",
     "description": "Intimacy encoded in ordinary details.",
     "category": "non-political",
     "source": "portfolio",
@@ -169,7 +169,7 @@ window.GALLERY_WORKS = [
   },
   {
     "title": "Flying from Home",
-    "image": "artworks/flying-from-home.jpg",
+    "image": "flying-from-home.jpg",
     "description": "Movement as rupture and the search for a new identity.",
     "category": "non-political",
     "source": "portfolio",
@@ -177,7 +177,7 @@ window.GALLERY_WORKS = [
   },
   {
     "title": "Midlife Crisis",
-    "image": "artworks/midlife-crisis.jpg",
+    "image": "midlife-crisis.jpg",
     "description": "A confrontation between life expectations and lived reality.",
     "category": "non-political",
     "source": "portfolio",
@@ -185,7 +185,7 @@ window.GALLERY_WORKS = [
   },
   {
     "title": "Acceptance",
-    "image": "artworks/acceptance.jpg",
+    "image": "acceptance.jpg",
     "description": "A moment of complete defenselessness, trust, and need.",
     "category": "non-political",
     "source": "portfolio",
@@ -193,7 +193,7 @@ window.GALLERY_WORKS = [
   },
   {
     "title": "Dream of Sea",
-    "image": "artworks/dream-of-sea.jpg",
+    "image": "dream-of-sea.jpg",
     "description": "",
     "category": "non-political",
     "source": "photo",
@@ -201,7 +201,7 @@ window.GALLERY_WORKS = [
   },
   {
     "title": "I Want It Too",
-    "image": "artworks/i-want-it-too.jpg",
+    "image": "i-want-it-too.jpg",
     "description": "",
     "category": "non-political",
     "source": "photo",
@@ -209,7 +209,7 @@ window.GALLERY_WORKS = [
   },
   {
     "title": "Life Change",
-    "image": "artworks/life-change.jpg",
+    "image": "life-change.jpg",
     "description": "",
     "category": "non-political",
     "source": "photo",
@@ -217,7 +217,7 @@ window.GALLERY_WORKS = [
   },
   {
     "title": "My Cat",
-    "image": "artworks/my-cat.jpg",
+    "image": "my-cat.jpg",
     "description": "",
     "category": "non-political",
     "source": "photo",
@@ -225,7 +225,7 @@ window.GALLERY_WORKS = [
   },
   {
     "title": "No More Russia",
-    "image": "artworks/no-more-russia.jpg",
+    "image": "no-more-russia.jpg",
     "description": "Inspired by an incident at a gymnastics championship in Italy, when a Ukrainian gymnast refused to hear the Russian national anthem or see the Russian flag. National symbols become sources of pain, protest, and rejection.",
     "category": "political",
     "source": "photo",
@@ -233,7 +233,7 @@ window.GALLERY_WORKS = [
   },
   {
     "title": "Stressed Lizard",
-    "image": "artworks/stressed-lizard.jpg",
+    "image": "stressed-lizard.jpg",
     "description": "",
     "category": "non-political",
     "source": "photo",
@@ -241,7 +241,7 @@ window.GALLERY_WORKS = [
   },
   {
     "title": "SVO",
-    "image": "artworks/svo.jpg",
+    "image": "svo.jpg",
     "description": "The mechanical articulation of “Special Military Operation” by the lips of a faceless human biomass. Individual voices dissolve into a collective ritual, where the repetition of an official euphemism replaces independent thought.",
     "category": "political",
     "source": "photo",
@@ -249,7 +249,7 @@ window.GALLERY_WORKS = [
   },
   {
     "title": "White Sun of Egypt",
-    "image": "artworks/white-sun-of-egypt.jpg",
+    "image": "white-sun-of-egypt.jpg",
     "description": "",
     "category": "non-political",
     "source": "photo",
@@ -257,7 +257,7 @@ window.GALLERY_WORKS = [
   },
   {
     "title": "Guessing Woman’s Mind",
-    "image": "artworks/woman-s-mind.jpg",
+    "image": "woman-s-mind.jpg",
     "description": "Inspired by a surreal dream in which a man must match the number on a slot machine with the number at a woman’s table, while a robot bites flies. Chance, technology, and human relationships form a playful metaphor for the difficulty of understanding another person’s mind.",
     "category": "non-political",
     "source": "photo",
